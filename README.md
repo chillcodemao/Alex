@@ -2,7 +2,7 @@
 - 👀 I’m interested in: web development, as a career change.
 - 🌱 I’m currently learning: The Web Developer Bootcamp on udemy.
 - 💞️ I’m looking to collaborate: on Projects that can improve my coding skills.
-- 📫 How to reach me: e-mail me.
+- 📫 How to reach me: send me a message.
 
 <!---
 chillcodemao/chillcodemao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
